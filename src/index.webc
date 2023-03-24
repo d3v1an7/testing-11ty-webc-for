@@ -1,0 +1,1 @@
+<card-story webc:for="item of postsData.posts" :@data="item"></card-story>

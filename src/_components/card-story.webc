@@ -1,0 +1,4 @@
+<article>
+  <h3 @text="data.title"></h3>
+  <p @text="data.body"></p>
+</article>
